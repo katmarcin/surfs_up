@@ -40,6 +40,10 @@ W.Avy expressed curiosity towards visualizing average temperatures at different 
 
 <img src="https://github.com/katmarcin/surfs_up/blob/ce1e6024b13ba9a35384ad7be487560a66bae23f/station.png" width="540" height="295"/>
 
+Another query was performed to visualize temperature differences recorded by different stations across Oahu. 
+
+
+
 
 
 
