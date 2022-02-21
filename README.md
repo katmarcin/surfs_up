@@ -6,7 +6,7 @@ A SQLite file containing a multitude of Hawaii weather metrics, such as precipit
 
 # Results
 
-<img src="https://github.com/katmarcin/surfs_up/blob/f3c23acade25baf0e1757e0f53d7293151be3339/junedf.png">
+<img src="https://github.com/katmarcin/surfs_up/blob/4fe6b92b9c871fdbca60d74ff937b4739175250a/jantemps.png">
 
 <img src="https://github.com/katmarcin/surfs_up/blob/f3c23acade25baf0e1757e0f53d7293151be3339/decdf.png">
 
