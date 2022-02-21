@@ -36,4 +36,10 @@ b. Summary Statistics for the Months of June and Decemeber in Oahu, Hawaii.
 
 Although warm weather is sometimes subjective, especially for ice-cream enthusiasts, both months prove to have fantastic warm weather and we can expect a successful ice-cream and shake business. A slight drop in temperature for December certainly would not push surfers aware either. However, if we want to be even more precise for W. Avy, to help with his determination of the business outcome, we prepared two more queries to gather more weather data for June and December. 
 
+W.Avy expressed curiosity towards visualizing average temperatures at different weather stations dispersed throughout Oahu. Because of its mountainous terrain, one side of Oahu may be colder and more precipitous than the other. The query performed below pulls average temperatures from the weather stations on Oahu for the month of June. This query would help W.Avy determine where on the island it would be best to invest in an ice cream shop. In this data visualization, we can see there is approximate 6 Fahrenheit degree difference exhibited on the same island of Oahu, but in different locations. This shows W.Avy the climate variety that can exist on any given day.
+
+<img src="https://github.com/katmarcin/surfs_up/blob/ce1e6024b13ba9a35384ad7be487560a66bae23f/station.png" width="540" height="295"/>
+
+
+
 
