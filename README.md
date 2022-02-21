@@ -44,7 +44,7 @@ Another query was performed to visualize temperature differences recorded by dif
 
 Although December sees more temperature variability throughout the month, the temperature is more consistent throughout the island than it is in June. More consistency is seen throughout the month of June, however temperature varies throughout the island. These determinations are important for honing in on potential locations for Surf N'Shake shop. W.Avy, a surfing expert, is keen on location and climate for determining the success of the business.
 
-Although warm weather is sometimes subjective, especially for ice-cream enthusiasts, both months prove to have fantastic warm weather and we can expect a successful ice-cream and shake business. A slight drop in temperature for December certainly would not push surfers, locals, or tourists away. 
+A slight drop in temperature for December certainly would not push surfers, locals, or tourists away. Although warm weather is sometimes subjective, especially for ice-cream enthusiasts, both months prove to have fantastic warm weather and we can expect a successful business for Surf N'Shake. 
 
 
 
